@@ -22,7 +22,7 @@ const ImageSection = () => {
                     </div>
                     <div className="right-section">
                         <p>: <span>Samhitha Suda</span></p>
-                        <p>: 19</p>
+                        <p>: 23</p>
                         <p>: Indian</p>
                         <p>: English, Telugu, Hindi </p>
                         <p>: English, Telugu, Hindi</p>
