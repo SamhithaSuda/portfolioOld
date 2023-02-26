@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ee77622f.css",
+    "main.js": "./static/js/main.734288f5.js",
+    "static/media/react.png": "./static/media/react.ce09cd9db08d4526096d.png",
+    "static/media/nft-game.png": "./static/media/nft-game.dd39cd9f51286ffcd0f1.png",
+    "static/media/browser.png": "./static/media/browser.ac6b1c7072f37a386545.png",
+    "static/media/dots.svg": "./static/media/dots.9978678b9b3cb292d679.svg",
+    "static/media/stakify.png": "./static/media/stakify.18e7e7e35890cc1ff269.png",
+    "static/media/about.jpg": "./static/media/about.5f1b1cb26c12cb002be6.jpg",
+    "static/media/responsive.png": "./static/media/responsive.645977e0c7923e3da629.png",
+    "static/media/github-profile-search.png": "./static/media/github-profile-search.4d94da74c3ffdeb460a3.png",
+    "static/media/dark-theme.png": "./static/media/dark-theme.5c55d77911e1ab44c152.png",
+    "static/media/javascript.png": "./static/media/javascript.295145df29d292d4bac8.png",
+    "static/media/personal_photo.jpg": "./static/media/personal_photo.3d0c14f4bc48f47aec14.jpg",
+    "static/media/landing_page.png": "./static/media/landing_page.c6d754ec0ca3661aacb9.png",
+    "static/media/html-css.png": "./static/media/html-css.0496737256e79701536d.png",
+    "static/media/nft.png": "./static/media/nft.1cf5f72f936a1f269bdd.png",
+    "static/media/todo.jpg": "./static/media/todo.817202ed8cf2e878c0f8.jpg",
+    "static/media/location.svg": "./static/media/location.5cd6776e27db7845a2827189649d9dc4.svg",
+    "static/media/emailme.svg": "./static/media/emailme.a60657ebd5cb15ed089713db525cda0d.svg",
+    "index.html": "./index.html",
+    "main.ee77622f.css.map": "./static/css/main.ee77622f.css.map",
+    "main.734288f5.js.map": "./static/js/main.734288f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee77622f.css",
+    "static/js/main.734288f5.js"
+  ]
+}
